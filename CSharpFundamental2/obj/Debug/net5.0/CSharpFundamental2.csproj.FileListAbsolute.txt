@@ -1,0 +1,16 @@
+E:\LEARNING\NashTech\CSharpFundamental2\obj\Debug\net5.0\CSharpFundamental2.csproj.AssemblyReference.cache
+E:\LEARNING\NashTech\CSharpFundamental2\obj\Debug\net5.0\CSharpFundamental2.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\NashTech\CSharpFundamental2\obj\Debug\net5.0\CSharpFundamental2.AssemblyInfoInputs.cache
+E:\LEARNING\NashTech\CSharpFundamental2\obj\Debug\net5.0\CSharpFundamental2.AssemblyInfo.cs
+E:\LEARNING\NashTech\CSharpFundamental2\obj\Debug\net5.0\CSharpFundamental2.csproj.CoreCompileInputs.cache
+E:\LEARNING\NashTech\CSharpFundamental2\bin\Debug\net5.0\CSharpFundamental2.exe
+E:\LEARNING\NashTech\CSharpFundamental2\bin\Debug\net5.0\CSharpFundamental2.deps.json
+E:\LEARNING\NashTech\CSharpFundamental2\bin\Debug\net5.0\CSharpFundamental2.runtimeconfig.json
+E:\LEARNING\NashTech\CSharpFundamental2\bin\Debug\net5.0\CSharpFundamental2.runtimeconfig.dev.json
+E:\LEARNING\NashTech\CSharpFundamental2\bin\Debug\net5.0\CSharpFundamental2.dll
+E:\LEARNING\NashTech\CSharpFundamental2\bin\Debug\net5.0\ref\CSharpFundamental2.dll
+E:\LEARNING\NashTech\CSharpFundamental2\bin\Debug\net5.0\CSharpFundamental2.pdb
+E:\LEARNING\NashTech\CSharpFundamental2\obj\Debug\net5.0\CSharpFundamental2.dll
+E:\LEARNING\NashTech\CSharpFundamental2\obj\Debug\net5.0\ref\CSharpFundamental2.dll
+E:\LEARNING\NashTech\CSharpFundamental2\obj\Debug\net5.0\CSharpFundamental2.pdb
+E:\LEARNING\NashTech\CSharpFundamental2\obj\Debug\net5.0\CSharpFundamental2.genruntimeconfig.cache
